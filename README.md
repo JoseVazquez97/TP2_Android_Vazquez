@@ -2,4 +2,4 @@
 Trabajo Practico nro 2.Tercer Anio
 
 
-LA IDENTIDAD VISUAL DESARROLLADA EN ESTE TRABAJO PRACTICO FUE LA ESPN
+LA IDENTIDAD VISUAL que se elijio para abordar este trabajo fue la de ESPN
