@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrabajoPractico2 Android</string>
+    <string name="titl_gome">NOTICIAS</string>
+    <string name="usr_s">Usuario</string>
+    <string name="psw_s">Contrasenia</string>
+    <string name="ing_s">Ingresar</string>
+    <string name="abt_s">Contacto</string>
+    <string name="sup_s">SOPORTE TECNICO</string>
+</resources>

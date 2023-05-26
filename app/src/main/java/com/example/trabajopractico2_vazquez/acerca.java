@@ -48,7 +48,7 @@ public class acerca extends AppCompatActivity {
     }
 
     public void abrirGitHub(View view) {
-        String repositoryUrl = "https://github.com/tu-usuario/tu-repositorio";
+        String repositoryUrl = "https://github.com/JoseVazquez97/TP2_Android_Vazquez";
 
         Intent i = new Intent(Intent.ACTION_VIEW);
         i.setData(Uri.parse(repositoryUrl));

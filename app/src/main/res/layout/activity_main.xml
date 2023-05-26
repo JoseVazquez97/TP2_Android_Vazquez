@@ -13,7 +13,7 @@
         android:layout_marginTop="60dp"
         android:backgroundTint="#F81A1A"
         android:onClick="ingresar"
-        android:text="INGRESAR"
+        android:text="@string/ing_s"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edit_psw"
         app:strokeColor="#E61919" />
@@ -25,7 +25,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
         android:ems="10"
-        android:hint="Contrasenia"
+        android:hint="@string/psw_s"
         android:inputType="textPassword"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edit_usr" />
@@ -37,7 +37,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="28dp"
         android:ems="10"
-        android:hint="Usuario"
+        android:hint="@string/usr_s"
         android:inputType="text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"

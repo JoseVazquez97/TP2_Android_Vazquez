@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TrabajoPractico2_Vazquez</string>
+    <string name="app_name">Android HomeWork</string>
+    <string name="titl_gome">NEWS</string>
+    <string name="usr_s">Username</string>
+    <string name="psw_s">Password</string>
+    <string name="ing_s">Login</string>
+    <string name="abt_s">About</string>
+    <string name="sup_s">TECHNICAL SUPPORT</string>
 </resources>
